@@ -2,7 +2,7 @@ import React from 'react';
 
 function App() {
   return (
-        <input type="text" value={this.state.value} name="test" />
+       PK
   );
 }
 
