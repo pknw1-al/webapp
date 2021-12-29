@@ -1,7 +1,6 @@
 import React from 'react';
 
 function App() {
-  const value = 'World';
   return (
         <input type="text" value={this.state.value} name="test" />
   );
